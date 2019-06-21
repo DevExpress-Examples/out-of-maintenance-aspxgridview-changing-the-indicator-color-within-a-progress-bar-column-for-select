@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Changing the indicator color within a progress bar column for selected rows
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2070/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how the indicator color of a progress bar control displayed within a grid column can be dynamically changed when selecting/unselecting data rows within the grid. In this example, the ASPxProgressBar control is placed into a column's DataItemTemplate, and the grid's SettingsBehavior.ProcessSelectionChangedOnServer property is set to True to  process row selection on the server side.</p>
